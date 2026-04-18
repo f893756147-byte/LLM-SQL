@@ -113,4 +113,4 @@ streamlit run streamlit_app.py
 
 ## License
 
-可根据需要添加，例如 `MIT`。
+MIT。
